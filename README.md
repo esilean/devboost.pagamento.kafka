@@ -2,7 +2,7 @@
 
 Projeto do curso DevBoost - Itaú
 
-![](https://github.com/esilean/devboost.microservices/blob/master/drone-delivery-architecture.png)
+![](https://github.com/esilean/devboost.pagamento.kafka/blob/master/drone-delivery-architecture.png)
 
 ## Techs
 
